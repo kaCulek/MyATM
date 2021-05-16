@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<atmUsers>
+  <atmUser>
+    <cardNumber>1234-1234-1234-1234</cardNumber>
+    <pin>1234</pin>
+    <name>Ivan</name>
+    <lastName>Horvat</lastName>
+    <id>1</id>
+    <transactions>
+      <transaction>
+        <date>16.07.2015 20:05:20</date>
+        <description>Paycheck</description>
+        <amount>10000</amount>
+        <accountBalance>10001</accountBalance>
+      </transaction>
+      <transaction>
+        <date>16.07.2015 15:15:15</date>
+        <description>ATM withdraw</description>
+        <amount>9000</amount>
+        <accountBalance>1001</accountBalance>
+      </transaction>
+      <transaction>
+        <date>16.07.2015 13:54:11</date>
+        <description>ATM withdraw</description>
+        <amount>500</amount>
+        <accountBalance>501</accountBalance>
+      </transaction>
+      <transaction>
+        <date>16.07.2015 14:23:30</date>
+        <description>ATM withdraw</description>
+        <amount>9000</amount>
+        <accountBalance>9501</accountBalance>
+      </transaction>
+      <transaction>
+        <date>16.07.2015 16:17:18</date>
+        <description>ATM withdraw</description>
+        <amount>500</amount>
+        <accountBalance>9001</accountBalance>
+      </transaction>
+      <transaction>
+        <date>16.07.2015 13:30:32</date>
+        <description>ATM withdraw</description>
+        <amount>10</amount>
+        <accountBalance>8991</accountBalance>
+      </transaction>
+      <transaction>
+        <date>17.07.2015 13:34:57</date>
+        <description>ATM withdraw</description>
+        <amount>10</amount>
+        <accountBalance>8981</accountBalance>
+      </transaction>
+      <transaction>
+        <date>17.07.2015 13:50:10</date>
+        <description>ATM withdraw</description>
+        <amount>300</amount>
+        <accountBalance>8681</accountBalance>
+      </transaction>
+      <transaction>
+        <date>17.07.2015 13:56:38</date>
+        <description>ATM withdraw</description>
+        <amount>10</amount>
+        <accountBalance>8671</accountBalance>
+      </transaction>
+      <transaction>
+        <date>17.07.2015 13:56:41</date>
+        <description>ATM withdraw</description>
+        <amount>10</amount>
+        <accountBalance>8661</accountBalance>
+      </transaction>
+      <transaction>
+        <date>17.07.2015 13:56:42</date>
+        <description>ATM withdraw</description>
+        <amount>10</amount>
+        <accountBalance>8651</accountBalance>
+      </transaction>
+      <transaction>
+        <date>17.07.2015 14:17:46</date>
+        <description>ATM withdraw</description>
+        <amount>30</amount>
+        <accountBalance>8621</accountBalance>
+      </transaction>
+      <transaction>
+        <date>17.07.2015 14:17:59</date>
+        <description>ATM withdraw</description>
+        <amount>300</amount>
+        <accountBalance>8321</accountBalance>
+      </transaction>
+      <transaction>
+        <date>17.07.2015 14:19:25</date>
+        <description>ATM withdraw</description>
+        <amount>200</amount>
+        <accountBalance>8121</accountBalance>
+      </transaction>
+      <transaction>
+        <date>17.07.2015 14:19:28</date>
+        <description>ATM withdraw</description>
+        <amount>300</amount>
+        <accountBalance>7821</accountBalance>
+      </transaction>
+      <transaction>
+        <date>17.07.2015 14:19:40</date>
+        <description>ATM withdraw</description>
+        <amount>300</amount>
+        <accountBalance>7521</accountBalance>
+      </transaction>
+      <transaction>
+        <date>17.07.2015. 14:20:44</date>
+        <description>ATM withdraw</description>
+        <amount>200</amount>
+        <accountBalance>7321</accountBalance>
+      </transaction>
+      <transaction>
+        <date>17.07.2015. 14:20:45</date>
+        <description>ATM withdraw</description>
+        <amount>20</amount>
+        <accountBalance>7301</accountBalance>
+      </transaction>
+      <transaction>
+        <date>17.07.2015. 14:23:42</date>
+        <description>ATM withdraw</description>
+        <amount>300</amount>
+        <accountBalance>7001</accountBalance>
+      </transaction>
+      <transaction>
+        <date>17.07.2015. 14:25:21</date>
+        <description>ATM withdraw</description>
+        <amount>50</amount>
+        <accountBalance>6951</accountBalance>
+      </transaction>
+      <transaction>
+        <date>17.07.2015. 14:27:27</date>
+        <description>ATM withdraw</description>
+        <amount>200</amount>
+        <accountBalance>6751</accountBalance>
+      </transaction>
+      <transaction>
+        <date>17.07.2015. 18:11:46</date>
+        <description>ATM withdraw</description>
+        <amount>20</amount>
+        <accountBalance>6731</accountBalance>
+      </transaction>
+      <transaction>
+        <date>17.07.2015. 18:12:19</date>
+        <description>ATM withdraw</description>
+        <amount>999</amount>
+        <accountBalance>5732</accountBalance>
+      </transaction>
+      <transaction>
+        <date>18.08.2015. 22:10:31</date>
+        <description>ATM withdraw</description>
+        <amount>10</amount>
+        <accountBalance>5722</accountBalance>
+      </transaction>
+      <transaction>
+        <date>18.08.2015. 22:10:33</date>
+        <description>ATM withdraw</description>
+        <amount>300</amount>
+        <accountBalance>5422</accountBalance>
+      </transaction>
+      <transaction>
+        <date>18.08.2015. 22:10:35</date>
+        <description>ATM withdraw</description>
+        <amount>50</amount>
+        <accountBalance>5372</accountBalance>
+      </transaction>
+      <transaction>
+        <date>18.08.2015. 22:10:43</date>
+        <description>ATM withdraw</description>
+        <amount>300</amount>
+        <accountBalance>5072</accountBalance>
+      </transaction>
+      <transaction>
+        <date>18.08.2015. 22:10:47</date>
+        <description>ATM withdraw</description>
+        <amount>20</amount>
+        <accountBalance>5052</accountBalance>
+      </transaction>
+      <transaction>
+        <date>18.08.2015. 22:10:53</date>
+        <description>ATM withdraw</description>
+        <amount>30</amount>
+        <accountBalance>5022</accountBalance>
+      </transaction>
+      <transaction>
+        <date>02.09.2015. 16:55:25</date>
+        <description>ATM withdraw</description>
+        <amount>20</amount>
+        <accountBalance>5002</accountBalance>
+      </transaction>
+      <transaction>
+        <date>02.09.2015. 17:13:08</date>
+        <description>ATM withdraw</description>
+        <amount>300</amount>
+        <accountBalance>4702</accountBalance>
+      </transaction>
+      <transaction>
+        <date>02.09.2015. 17:36:54</date>
+        <description>ATM withdraw</description>
+        <amount>200</amount>
+        <accountBalance>4502</accountBalance>
+      </transaction>
+    </transactions>
+  </atmUser>
+</atmUsers>
